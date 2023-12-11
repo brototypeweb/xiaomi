@@ -1,0 +1,141 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.carsuel1-bg {
+    background-image: url('//i03.appmifile.com/68_operator_in/08/12/2023/919eaa559d7a53bab34a08b30a58738a!2560x800.jpg');
+    background-size: cover;
+    background-position: center center;
+    
+}
+.carsuel2-bg {
+    background-image: url('//i03.appmifile.com/495_operator_in/07/12/2023/830afff16f0c7ab2f22ff6b403bb07aa!2560x800.jpg');
+    background-size: cover;
+    background-position: center center;
+    
+}
+.carsuel3-bg {
+    background-image: url("//i03.appmifile.com/806_operator_in/09/12/2023/35c613a575b2115ed23e05d65a53ddf2!2560x800.jpg");
+    background-size: cover;
+    background-position: center center;
+    
+}
+.carsuel4-bg {
+    background-image: url("//i03.appmifile.com/569_operator_in/23/10/2023/a54794b7e697faaa221aa48ad3398936.jpg");
+    background-size: cover;
+    background-position: center center;
+   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+    
+}
+
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+
+.marketing .col-lg-4 p {
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
+}
+
+.featurette-divider {
+  margin: 1rem 0;
+}
+.featurette-divider-2 {
+  margin: 2rem 0;
+  height: 2px;
+  background-color: white;
+}
+
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  /* rtl:remove */
+  letter-spacing: -0.05rem;
+}
+
+@media (min-width: 40em) {
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+.text-black {
+  color: #000;
+}
+
+.second {
+  background-image: url("//i03.appmifile.com/495_operator_in/07/12/2023/830afff16f0c7ab2f22ff6b403bb07aa!2560x800.jpg");
+  background-size: cover;
+  background-position: center center;
+
+}
+
+.site-footer {
+  background: #191919;
+}
+.site-footer .follow-icon {
+  background-color:transparent;
+  font-size: 2rem;
+  color: #616161;
+  text-decoration: none;
+  /* line-height: 1; */
+  width: 18;
+  height: 18;
+  font-size: 30px;
+  border: none;
+}
+.font-size_12 {
+  font-size: 0.75rem;
+
+  color: #616161;
+  font-size: 0.75rem;
+  text-decoration: none;
+}
+
+.ightarrow {
+
+  color:rgb(255, 255, 255);
+  font-size: 20rem;
+  height: 2;
+}

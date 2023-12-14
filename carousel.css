@@ -1,6 +1,6 @@
 body {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  /* padding-bottom: 3rem; */
   color: #5a5a5a;
 }
 
@@ -8,6 +8,7 @@ body {
     background-image: url('//i03.appmifile.com/68_operator_in/08/12/2023/919eaa559d7a53bab34a08b30a58738a!2560x800.jpg');
     background-size: cover;
     background-position: center center;
+    
     
 }
 .carsuel2-bg {
@@ -28,7 +29,7 @@ body {
     background-position: center center;
    
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    /* background-size: 100% 100%; */
     
     
 }
@@ -36,7 +37,7 @@ body {
 
 
 .carousel {
-  margin-bottom: 4rem;
+  margin-bottom: .01rem;
 }
 
 .carousel-caption {
@@ -87,9 +88,9 @@ body {
   margin: 1rem 0;
 }
 .featurette-divider-2 {
-  margin: 2rem 0;
-  height: 2px;
-  background-color: white;
+  margin: .01rem 0;
+  height: 1px;
+  /* background-color: white; */
 }
 
 .featurette-heading {
